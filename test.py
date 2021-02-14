@@ -1,1 +1,2 @@
-Unable to initialize device PRN
+A= 2
+print(A)
